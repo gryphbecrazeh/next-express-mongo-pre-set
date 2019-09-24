@@ -25098,7 +25098,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     rel: "stylesheet",
     href: "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
     integrity: "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T",
-    crossorigin: "anonymous"
+    crossOrigin: "anonymous"
   })), __jsx(reactstrap__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     fluid: true
   }, __jsx(reactstrap__WEBPACK_IMPORTED_MODULE_2__["Row"], null, __jsx(reactstrap__WEBPACK_IMPORTED_MODULE_2__["Col"], null, __jsx(reactstrap__WEBPACK_IMPORTED_MODULE_2__["Button"], null, "Test")))));
